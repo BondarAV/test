@@ -69,14 +69,18 @@ a {
 	align-items: center;
 }
 .header-logo {
+	background-color: green;
 }
 .header-nav {
+	margin-left: 24px;
 }
 .header-list {
 	display: flex;
 	align-items: center;
+	gap: 10px;
 }
 .header-item {
+	background-color: navy;
 }
 .header-link {
 }
