@@ -54,3 +54,29 @@ a {
 .link {
 	text-decoration: none;
 }
+.container {
+	width: 1360px;
+	padding: 0 30px;
+	margin: 0 auto;
+}
+
+/* --------------------HEADER-------------------- */
+
+.header {
+}
+.header .container {
+	display: flex;
+	align-items: center;
+}
+.header-logo {
+}
+.header-nav {
+}
+.header-list {
+	display: flex;
+	align-items: center;
+}
+.header-item {
+}
+.header-link {
+}
